@@ -1,17 +1,17 @@
 ﻿  Source.cpp
-E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(154,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(157,12): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(158,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(159,17): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(147,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(150,12): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(151,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(152,17): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(168,13): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(169,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(170,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
 E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(175,13): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
 E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(176,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(177,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(182,13): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(183,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(184,21): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
-E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(309,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(315,13): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(485,14): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
-E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(487,20): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
-E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(493,20): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(177,21): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(302,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(308,13): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(478,14): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(480,20): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(486,20): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
   lab03_3.vcxproj -> E:\PROJECT\3sem\lab03_3\x64\Debug\lab03_3.exe
