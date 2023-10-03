@@ -1,18 +1,17 @@
 ﻿  Source.cpp
-E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(144,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(147,14): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(148,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(149,31): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
-E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(165,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(166,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(167,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(172,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(173,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(174,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(299,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(305,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(475,14): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
-E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(477,20): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
-E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(483,20): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
-x64\Debug\Exception_Handling.obj : warning LNK4042: object specified more than once; extras ignored
+E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(154,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(157,12): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(158,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(159,17): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(175,13): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(176,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(177,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(182,13): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(183,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(184,21): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(309,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(315,13): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(485,14): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(487,20): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+E:\PROJECT\3sem\lab03_3\lab03_3\Source.cpp(493,20): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
   lab03_3.vcxproj -> E:\PROJECT\3sem\lab03_3\x64\Debug\lab03_3.exe

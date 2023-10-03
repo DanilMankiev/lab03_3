@@ -19,6 +19,11 @@ void StackUnderflow::what_v2() {
 	cout << "\nindex = " << m_index<<endl;
 }
 
+//const char* StackUnderflow::what() const noexcept
+//{
+//	return "StackUnderflow";
+//}
+
 StackOutOfRange::StackOutOfRange(): exception("StackOutOfRange")
 {
 }

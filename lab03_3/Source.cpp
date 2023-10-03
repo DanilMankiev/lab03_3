@@ -98,8 +98,11 @@ int main()
 
 		cout << "\nInteger Stack has: " << stack.GetSize() << " elements";
 		stack.Pop();
-		//stack.Pop();		// «десь должно быть "выброшено" исключение
+		
+		stack.Pop();		// «десь должно быть "выброшено" исключениe
+
 		stack.Push(2);
+		
 
 		int i = stack[3];	// «десь должно быть "выброшено" исключение
 
@@ -171,7 +174,7 @@ int main()
 	pr(vd, "After resize");
 	n = vd.size();
 	n = vd.capacity();
-	n = vd.max_size();
+	unsigned int  size = vd.max_size();
 
 	// »спользу€ метод at(), а также операцию выбора [], измените значени€
 	// некоторых элементов вектора и проверьте результат.
